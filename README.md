@@ -10,7 +10,7 @@ FFXIV Raid Gear Tracker is a web application designed to help teams in Final Fan
 
 ## How to Use
 
-1. Go to the [GitHub Pages site for FFXIV Raid Gear Tracker](https://your-github-username.github.io/your-repository-name/).
+1. Go to the [GitHub Pages site for FFXIV Raid Gear Tracker](https://y1chu.github.io/XIVGearTracker/).
 2. You will see a grid with 8 members (Main Tank, Off Tank, Healer 1, Healer 2, DPS1, DPS2, DPS3, DPS4).
 3. For each member, choose gear types and specify whether each piece of gear has been obtained.
 4. Once all data is entered, click the Submit button. A recovery password will be generated.
