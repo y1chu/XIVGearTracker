@@ -25,6 +25,6 @@ FFXIV Raid Gear Tracker is a web application designed to help teams in Final Fan
 
 ## Hosting
 
-This project is hosted on GitHub Pages. Visit the [project page](https://your-github-username.github.io/your-repository-name/) to use the application.
+This project is hosted on GitHub Pages. Visit the [project page](https://y1chu.github.io/XIVGearTracker/) to use the application.
 
 Please note that all data is stored locally in the user's browser and is not sent or stored anywhere else.
