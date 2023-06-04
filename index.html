@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FFXIV Raid Gear Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>FFXIV Raid Gear Tracker</h1>
+
+    <div id="recoveryContainer" class="recovery-container">
+        <label for="recoveryPassword">Recovery Password:</label>
+        <input type="text" id="recoveryPassword">
+        <button onclick="loadData()">Recover</button>
+    </div>
+
+    <form id="raidGearForm">
+        <div id="membersContainer" class="grid-container"></div>
+        <div class="button">
+            <input type="submit" value="Submit">
+        </div>
+    </form>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
